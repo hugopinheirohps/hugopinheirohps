@@ -1,9 +1,17 @@
 ### Hello there! Welcome to my GitHub.
 
-- 🔭 Studying Web FullStack Development at Certified Tech Developer by Digital House 
+- 🔭 Studying Web FullStack Development at Digital House 
 - 🎓 Computer Scientist by UNASP - Centro Universitário Adventista de São Paulo
 - 🌱 Learning ReactJs, Rest, NodeJs and others
 - 📫 Send me a Email: hugopinheirohps@live.com
+
+### Olá! Seja bem vindo ao meu GitHub.
+
+- 🔭 Estudando Web FullStack Development na Digital House 
+- 🎓 Cientista da Computação pelo UNASP - Centro Universitário Adventista de São Paulo
+- 🌱 Aprendendo ReactJs, Rest, NodeJs e outros
+- 📫 Meu email: hugopinheirohps@live.com
+
 <!-- 
 caixas de status -->
 <div align="center">
