@@ -1,4 +1,4 @@
-### Hello there! Welcome to my GitHub.
+### Hello! Welcome to my GitHub.
 
 - 🔭 Studying Web FullStack Development at Digital House 
 - 🎓 Computer Scientist by UNASP - Centro Universitário Adventista de São Paulo
