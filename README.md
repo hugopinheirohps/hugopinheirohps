@@ -7,9 +7,9 @@
 <!-- 
 caixas de status -->
 <div align="center">
-  <a href="https://github.com/vitinop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinop&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/hugopinheirohps">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugopinheirohps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopinheirohps&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!-- 
  Frameworks e linguagens -->
